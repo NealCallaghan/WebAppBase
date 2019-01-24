@@ -1,4 +1,43 @@
+This project is a combination of a bootstrapped Create React App and various tools and configurations that will hopefully allow for production development straight away.
+
+## ESlint
+
+Included is eslint, together with the Airbnb linting rules slightly modified.
+
+## MaterialUI
+
+MaterialUI from google is provided as a bases for out of the box react components.
+
+## React-Redux
+
+React-Redux is included as an application state management system.
+
+## Jest
+
+Jest is provided and setup as a mocking, test runner and assertion library. Various Jest plugins have also been provided to make your linting experience smoother. [Jest](https://jestjs.io/)
+
+## Enzyme
+
+In conjunction with Jest Enzyme is included as a tool to allow you to unit test you’re components in a virtual dom, see [Enzyme](https://airbnb.io/enzyme/).
+
+## React-Router
+
+react-router is also included for routing.
+
+## React-Intl
+
+From yahoo react-intl is provided for localization see [react-intl](https://github.com/yahoo/react-intl)
+
+## Redux DevTools
+
+The project is also setup out of the box to use the Redux DevTools, this will allow you to view the applications state as the user interacts with the application. see [redux devtools](https://github.com/zalmoxisus/redux-devtools-extension)
+
+
+The application has examples throughout on using the various libraries mentioned.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
