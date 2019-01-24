@@ -35,8 +35,24 @@ The project is also setup out of the box to use the Redux DevTools, this will al
 
 The application has examples throughout on using the various libraries mentioned.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Handy VSCode Extensions
 
+### Debugger for Chrome
+The application is already be setup to allow you to set breakpoints within the application see [vscode-debugger](https://github.com/Microsoft/vscode-chrome-debug)
+
+### ESLint
+If linting doesn't work right away install this extension [vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+### VSCode Icons
+Very nice Icons for VSCode [icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+
+### ES7 React/Redux snippets
+Allows you to use snippets within the editor (less typing :) ) [vscode-snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
+
+see below for further information on how to debug and test the application.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
